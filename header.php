@@ -52,7 +52,7 @@
         </li>
 
         <li class="nav-item cont-a-2">
-          <a href="nosotros.php" class="nav-link" >Nosotros</a>
+          <a href="nosotros.php" class="nav-link" >Nosotrossssss</a>
         </li>
 
         <li class="nav-item dropdown ml-u-a">
