@@ -65,7 +65,7 @@
             <a class="dropdown-item" href="ingenieria-industrial.php">Ingenieria Industrial</a>
             <a class="dropdown-item" href="mercadotecnia.php">Mercadotecnia</a>
             <a class="dropdown-item" href="contabilidad.php">Contabilidad</a>
-            <a class="dropdown-item" href="rh.php">Recursos Humanoss</a>
+            <a class="dropdown-item" href="rh.php">Recursos Humanos</a>
 
 
         </li>
