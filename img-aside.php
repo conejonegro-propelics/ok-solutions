@@ -6,7 +6,7 @@
 
             <div class="col-md-6 d-flex flex-column justify-content-center text-left contenedor-p-h2-img-aside">
               <p class="font-weight-bold">Ok Solutions</p>
-              <h2>Todas las soluciones para tu negocio</h2>
+              <h2>Todas las soluciones para tu negociossss</h2>
               <p>Entendemos la Consultoría como un instrumento para dar respuestas y soluciones a las necesidades del cliente.</p>
               <a href="nosotros.php" class="btn btn-outline-danger">Ver mas...</a>
             </div>
