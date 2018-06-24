@@ -8,7 +8,7 @@
               <p class="font-weight-bold">Ok Solutions</p>
               <h2>Todas las soluciones para tu negocio</h2>
               <p>Entendemos la Consultoría como un instrumento para dar respuestas y soluciones a las necesidades del cliente.</p>
-              <a href="nosotros.html" class="btn btn-outline-danger">Ver mas...</a>
+              <a href="nosotros.php" class="btn btn-outline-danger">Ver mas...</a>
             </div>
 
             <div class="col-md-6">

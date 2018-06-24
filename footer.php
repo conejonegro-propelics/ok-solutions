@@ -17,7 +17,7 @@
     </div>
 
     <div class="col-md-3  align-items-center justify-content-center text-center cont-h5-footer">
-      <a href="contacto.html">
+      <a href="contacto.php">
         <h5>Contacto</h5>
       </a>
       <p>
@@ -27,7 +27,7 @@
     </div>
 
     <div class="col-md-3  align-items-center justify-content-center text-center cont-h5-footer">
-      <a href="#">
+      <a href="nosotros.php">
         <h5>Servicios</h5>
       </a>
       <a href="ingenieria-civil.html">
@@ -40,9 +40,9 @@
         <p>Asesoria Contable</p>
       </a>
       <a href="mercadotecnia.html">
-        <p> Mercadotecniaaaaaaaaaaaaa</p>
+        <p> Mercadotecnia</p>
       </a>
-      <a href="rh.html">
+      <a href="rh.php">
         <p> Recusros Humanos</p>
       </a>
 
