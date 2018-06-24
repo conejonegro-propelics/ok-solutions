@@ -71,7 +71,7 @@
         </li>
 
         <li class="nav-item cont-a-4">
-          <a class="nav-link"  href="contacto.php">Contactos</a>
+          <a class="nav-link"  href="contacto.php">Contacto</a>
         </li>
 
       </ul>
